@@ -14,8 +14,4 @@
 
 <style>
 	/*每个页面公共css */
-	page{
-		margin: 0;
-		padding: 0;
-	}
 </style>
